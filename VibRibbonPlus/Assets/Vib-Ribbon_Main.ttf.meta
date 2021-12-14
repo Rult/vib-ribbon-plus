@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ce31562ea6b2dbb4eb393ea19230189d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vib-Ribbon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
