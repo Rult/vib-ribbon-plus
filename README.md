@@ -6,6 +6,8 @@ Main dev creds:
 https://www.youtube.com/channel/UC0IY6smGwpfTgMVCR6km9bg
 https://discord.gg/2N4eUKxG2D
 
+[![rimuru35](https://img.youtube.com/vi/c-2btW6oQQo/0.jpg)](https://www.youtube.com/watch?v=c-2btW6oQQo)
+
 May Rimuru-sama bless the hacker slavs.
 
 Put this in a directory with Build.rar file
